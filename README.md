@@ -1,2 +1,2 @@
 # odin-library-too
-[](demo.png)
+![](demo.png)
